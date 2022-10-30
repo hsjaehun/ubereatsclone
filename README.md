@@ -4,9 +4,9 @@
 2. Manage state using Redux
 3. Apply auto complete searching area using Google Places APi
 4. Fetch restaurant information using Yelp fusion API
-5. Save order informtion to Google Firebase Cloude database
+5. Save order information to Google Firebase Cloud database
 6. Smooth page transition using React Navigation
-7. Improve user experinces using Lottie animation library
+7. Improve user experiences using Lottie animation library
 
 # 우버 이츠 클론 리액트 네이티브 앱 (2022년 1월 제작)
 
