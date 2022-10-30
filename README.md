@@ -16,4 +16,4 @@
 4. Yelp fusion API 로 식당 정보 검색 적용
 5. Firebase Cloud database 에 주문 정보 저장
 6. React Navigation 으로 부드러운 페이지 전환
-7. Lottie 애니메이션 라이브러리 적용하여 사용자 환경 낫게 조성.
+7. Lottie 애니메이션 라이브러리 적용하여 더 나은 UX 조성
